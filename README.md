@@ -8,11 +8,21 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer focused on buil
 - 📚 Continuously improving through hands-on projects and challenges.
 - 🌱 Currently exploring: Firebase Auth, GitHub Actions, and advanced UI/UX techniques.
 
-## 📌 Featured Project
+---
+
+## 📌 Featured Projects
+
+Here are some of the apps I've built so far — each one taught me something new and helped me grow as a developer.
+
+### 📰 [Akhbarak](https://github.com/moibrahemm/akhbarak-app)
+A responsive Arabic news app built with Flutter that fetches real-time articles using the GNews API.  
+💡 **Key learnings:** BLoC state management, API integration with Dio, custom extensions for responsiveness, WebView navigation.
+
+---
 
 ### 🎹 [Spiano](https://github.com/moibrahemm/spiano)
 A simple piano app built with Flutter, featuring responsive white and black keys with realistic sounds.  
-💡 Key learnings: responsive UI, audio integration, dynamic layout logic.
+💡 **Key learnings:** responsive UI, audio integration, dynamic layout logic.
 
 ---
 
@@ -24,7 +34,6 @@ A simple piano app built with Flutter, featuring responsive white and black keys
 | Git & GitHub         | ⭐⭐⭐⭐☆ |
 | Firebase             | ⭐⭐⭐⭐☆ |
 
-
 ---
 
 ## 📫 Contact Me
@@ -33,6 +42,5 @@ A simple piano app built with Flutter, featuring responsive white and black keys
 - 📧 Email: moibrahemm30@gmail.com
 
 ---
-
 
 > "Consistency is better than perfection. Keep building, one line at a time."
