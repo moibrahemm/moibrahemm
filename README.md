@@ -16,7 +16,7 @@ Here are some of the apps I've built so far — each one taught me something new
 
 ### 📰 [Akhbarak](https://github.com/moibrahemm/akhbarak-app)
 A responsive Arabic news app built with Flutter that fetches real-time articles using the GNews API.  
-💡 **Key learnings:** BLoC state management, API integration with Dio, custom extensions for responsiveness, WebView navigation.
+💡 **Key learnings:** API integration with Dio, custom extensions for responsiveness, WebView navigation.
 
 ---
 
