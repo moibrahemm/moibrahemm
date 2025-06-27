@@ -1,11 +1,5 @@
 # 👋 Hi there! I'm Mohammed
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moibrahemm&show_icons=true&theme=radical)
-
 Welcome to my GitHub profile! I'm a passionate Flutter developer focused on building smooth and interactive mobile applications.
 
 ## 👨‍💻 About Me
