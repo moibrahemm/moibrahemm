@@ -25,7 +25,7 @@ A simple and responsive weather application built with Flutter that displays rea
 - Clean and minimal UI
 
 💡 **Key learnings:**  
-API integration with Dio, state management using Cubit (BLoC), responsive design with custom extensions, weather-based UI logic
+API integration with Dio, state management using Cubit (BLoC), responsive design with custom extensions, and weather-based UI logic
 
 ---
 
@@ -33,7 +33,7 @@ API integration with Dio, state management using Cubit (BLoC), responsive design
 A responsive Arabic news app built with Flutter that fetches real-time articles using the GNews API.
 
 💡 **Key learnings:**  
-API integration with Dio, custom extensions for responsiveness, WebView navigation
+API integration with Dio, custom extensions for responsiveness, WebView navigation, and state management using Cubit (BLoC).
 
 ---
 
