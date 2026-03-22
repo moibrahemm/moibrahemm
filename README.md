@@ -1,65 +1,80 @@
 # 👋 Hi there! I'm Mohammed
 
-Welcome to my GitHub profile! I'm a passionate Flutter developer focused on building smooth and interactive mobile applications.
+Flutter Developer with hands-on experience building and deploying **production-level mobile applications** on Google Play, including multi-app systems with real-time data synchronization.
+
+---
 
 ## 👨‍💻 About Me
-- 🚀 Currently learning and building apps using **Flutter & Dart**
-- 🛠️ Interested in clean UI, performance optimization, and Firebase integration
-- 📚 Continuously improving through hands-on projects and real-world challenges
-- 🌱 Exploring: Firebase Auth, GitHub Actions, and advanced UI/UX techniques
+
+* 🚀 Flutter Developer with real-world experience in building scalable apps  
+* 🏗️ Strong focus on **Clean Architecture, MVVM, and BLoC/Cubit**  
+* 🔥 Experienced in Firebase (Firestore, Auth) and REST APIs (Dio)  
+* 📱 Published multiple apps on Google Play  
+* 🌱 Currently improving in system design and advanced architecture  
 
 ---
 
-## 📌 Featured Projects
+## 📱 Live Apps on Google Play
 
-Here are some of the apps I've built — each one taught me something new and helped me grow as a developer.
+### 🚚 Wassally System (3 Apps)
 
-### 🌦️ [Weather App Plus](https://github.com/moibrahemm/weather-app-plus)  
-A simple and responsive weather application built with Flutter that displays real-time weather data using the WeatherAPI.
+A complete delivery system consisting of three connected applications:
 
-💡 **Key features:**  
-- Real-time weather updates (temperature, condition, humidity, wind, etc.)  
-- Automatic location detection  
-- Custom weather icons based on condition  
-- Dynamic background gradients that change with weather  
-- Clean and minimal UI
+* **[Wassally User App](https://play.google.com/store/apps/details?id=com.sourcecode.wassally_app)** – Browse and order from restaurants and supermarkets  
+* **[Wassally Driver App](https://play.google.com/store/apps/details?id=com.sourcecode.wassally_driver)** – Manage delivery orders and track earnings  
+* **[Wassally Vendor App](https://play.google.com/store/apps/details?id=com.sourcecode.wassally_store)** – Manage products, orders, and business operations  
 
-💡 **Key learnings:**  
-API integration with Dio, state management using Cubit (BLoC), responsive design with custom extensions, and weather-based UI logic
+💡 **My Role & Key Achievements:**
 
----
-
-### 📰 [Akhbarak](https://github.com/moibrahemm/akhbarak-app)  
-A responsive Arabic news app built with Flutter that fetches real-time articles using the GNews API.
-
-💡 **Key learnings:**  
-API integration with Dio, custom extensions for responsiveness, WebView navigation, and state management using Cubit (BLoC).
+* Led a team of 3 developers, managing task distribution and ensuring code quality  
+* Independently developed the **Driver App** from scratch  
+* Implemented Clean Architecture and BLoC for scalable and maintainable code  
+* Integrated REST APIs and real-time data synchronization  
+* Collaborated with backend and UI teams to deliver production-ready features  
 
 ---
 
-### 🎹 [Spiano](https://github.com/moibrahemm/spiano)  
-A simple piano app built with Flutter, featuring responsive white and black keys with realistic sounds.
+## 📌 Featured Projects (Code Available)
 
-💡 **Key learnings:**  
-Responsive UI, audio integration, dynamic layout logic
+### 🏠 Maamoura Resort App *(Showcase Project)*
+
+A scalable property management system built with **Clean Architecture** and **BLoC**.
+
+💡 **Features:**
+
+* Add, edit, and manage apartments  
+* Handle reservations with start and end dates  
+* Track apartment availability  
+* Firebase Firestore integration for real-time updates  
+* Financial reporting and analytics  
+
+💡 **Role & Key Learnings:**
+
+* Designed and developed the project from scratch  
+* Applied feature-based Clean Architecture for maintainability  
+* Managed state with BLoC for predictable UI behavior  
+* Structured code for scalability and future enhancements  
+
+🔗 [GitHub Repository](https://github.com/moibrahemm/Maamoura-Resort)
 
 ---
 
 ## 🧰 Tech Stack
 
-| Technology           | Proficiency   |
-|----------------------|---------------|
-| Dart & Flutter       | ⭐⭐⭐⭐☆         |
-| Git & GitHub         | ⭐⭐⭐⭐☆         |
-| Firebase             | ⭐⭐⭐⭐☆         |
+* **Flutter & Dart**  
+* **BLoC / Cubit**  
+* **Clean Architecture**  
+* **Firebase (Firestore, Auth)**  
+* **REST APIs (Dio)**  
+* **Git & GitHub**  
 
 ---
 
 ## 📫 Contact Me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/moibrahemm/)
-- 📧 moibrahemm30@gmail.com
+* 🌐 LinkedIn: [Mohammed Ibrahem](https://linkedin.com/in/moibrahemm)  
+* 📧 Email: [moibrahemm30@gmail.com](mailto:moibrahemm30@gmail.com)
 
 ---
 
-> _"Consistency is better than perfection. Keep building, one line at a time."_
+> *"Building real-world apps with clean, scalable architecture."* 🚀
