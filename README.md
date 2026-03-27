@@ -36,6 +36,29 @@ A complete delivery system consisting of three connected applications:
 
 ## 📌 Featured Projects (Code Available)
 
+### 🚚 Wassally Driver App *(Showcase Project)*
+
+A **demo/showcase version** of the delivery driver app, built to demonstrate core features of the Wassally system.
+
+💡 **Features:**
+
+* Order management: view, accept/reject, and track orders  
+* Live location tracking & Google Maps integration  
+* Wallet balance and transaction history  
+* Real-time updates via SignalR  
+* Firebase Cloud Messaging (FCM) notifications  
+* RTL-first UI for Arabic support  
+
+💡 **Role & Key Learnings:**
+
+* Developed the demo independently for showcase purposes  
+* Applied Clean Architecture and BLoC for maintainable code  
+* Integrated real-time communication and map services  
+
+🔗 [GitHub Repository](https://github.com/moibrahemm/Wassally-Driver-ShowCase)
+
+---
+
 ### 🏠 Maamoura Resort App *(Showcase Project)*
 
 A scalable property management system built with **Clean Architecture** and **BLoC**.
