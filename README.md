@@ -4,7 +4,7 @@
 
 ### Mobile Software Engineer | Flutter Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=700&lines=Building+production-grade+Flutter+applications;Clean+Architecture+•+BLoC+•+REST+APIs;2%2B+Years+of+Experience;Marketplace+•+Delivery+•+B2B+Commerce" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&width=700&lines=Building+production-grade+Flutter+applications;Clean+Architecture+%7C+BLoC+%7C+REST+APIs;2%2B+Years+of+Experience;Marketplace+%7C+Delivery+%7C+B2B+Commerce" alt="Typing SVG" />
 
 <br/>
 
