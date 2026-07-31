@@ -23,8 +23,6 @@ Passionate about writing clean, maintainable, and scalable code using **Clean Ar
 
 Currently developing and maintaining production Flutter applications, contributing to architectural decisions, reviewing pull requests, and delivering features that solve real business problems.
 
-**Open to Flutter Developer and Mobile Software Engineer opportunities.**
-
 ---
 
 # Tech Stack
@@ -268,19 +266,15 @@ Property management platform developed for a private resort owner to simplify re
 
 ---
 
-# GitHub Activity
+# Currently Working On
 
-<div align="center">
+🚀 Future Pack B2B Commerce Platform
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=moibrahemm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moibrahemm&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=moibrahemm&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Wholesale Ordering
+- Payment Integration
+- Clean Architecture
+- BLoC
+- Multi-country Support
 
 ---
 
