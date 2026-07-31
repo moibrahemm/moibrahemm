@@ -2,7 +2,7 @@
 
 # Mohammed Ibrahem
 
-### Mobile Software Engineer | Flutter Developer
+### Flutter Developer • Mobile Software Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=2B6CB0&center=true&vCenter=true&width=700&lines=Building+production-grade+Flutter+applications;Clean+Architecture+%7C+BLoC+%7C+REST+APIs;2%2B+Years+of+Experience;Marketplace+%7C+Delivery+%7C+B2B+Commerce" alt="Typing SVG" />
 
@@ -127,24 +127,6 @@ A production-grade delivery ecosystem consisting of three interconnected applica
 - Built a clean, modular architecture using **Clean Architecture**, **BLoC**, and Dependency Injection.
 - Participated in feature planning, code reviews, and application maintenance.
 
-### Key Features
-
-✅ Multi-vendor marketplace
-
-✅ Real-time order lifecycle
-
-✅ Live driver tracking
-
-✅ Product & Store Management
-
-✅ Offers & Coupons
-
-✅ Nearby Order Discovery
-
-✅ Push Notifications
-
-✅ Authentication & Profile Management
-
 ### Tech Stack
 
 `Flutter` `BLoC` `Clean Architecture` `SignalR`
@@ -173,31 +155,22 @@ A production-grade delivery ecosystem consisting of three interconnected applica
 
 ## 🛍️ Bey3 Marketplace
 
-Marketplace application allowing users to buy, sell, and offer professional services.
-
-### Features
-
-- Product Listings
-- Live Chat
-- Service Marketplace
-- User Profiles
-- Favorites
-- Search & Filtering
+A production-grade marketplace platform enabling users to buy and sell products, offer local services, and communicate through one-to-one real-time chat within a unified mobile experience.
 
 ### My Contributions
 
-- Developed around **60%** of the application.
-- Built marketplace features and business logic.
-- Implemented one-to-one live chat.
-- Integrated REST APIs.
-- Improved performance and UI responsiveness.
+- Developed approximately **60%** of the application.
+- Built end-to-end marketplace workflows for products and services.
+- Implemented advertisement management, category browsing, advanced search, and favorites.
+- Developed one-to-one real-time messaging using **SignalR**.
+- Integrated **Google Maps**, **Firebase Cloud Messaging (FCM)**, and scalable **REST APIs**.
+- Built a modular architecture using **Clean Architecture** and **BLoC**.
+- Managed Google Play releases, production deployments, and application updates.
 
-### Technologies
+### Tech Stack
 
-`Flutter`
-`BLoC`
-`Firebase`
-`REST API`
+`Flutter` `BLoC` `Clean Architecture` `SignalR`
+`Google Maps` `Firebase` `FCM` `REST API`
 
 ### Google Play
 
@@ -222,13 +195,15 @@ Wholesale ordering platform connecting retailers with suppliers through a dedica
 
 ### My Contributions
 
-- Built and maintained both applications.
-- Developed delivery workflow features.
-- Integrated order lifecycle management.
-- Added real-time order status updates.
-- Implemented authentication, profile management, and notifications.
+- Developed and maintained both customer and delivery representative applications.
+- Implemented wholesale ordering workflows for supermarkets and retail stores.
+- Built complete order lifecycle management from order placement to delivery.
+- Integrated REST APIs, Firebase, and Google Maps.
+- Implemented authentication, profile management, notifications, and order tracking.
+- Refactored features using Clean Architecture and BLoC.
+- Improved application performance and maintainability.
 
-### Technologies
+### Tech Stack
 
 `Flutter`
 `BLoC`
@@ -272,7 +247,7 @@ Property management platform developed for a private resort owner to simplify re
 - Implemented financial reporting and expense tracking.
 - Developed a clean and scalable architecture using BLoC.
 
-### Technologies
+### Tech Stack
 
 `Flutter` `Firebase` `Firestore` `BLoC` `Clean Architecture`
 
@@ -288,21 +263,26 @@ Property management platform developed for a private resort owner to simplify re
 
 # Currently Working On
 
-🚀 Future Pack B2B Commerce Platform
+## 🚀 Future Pack B2B Commerce Platform
+
+Large-scale B2B commerce platform for the packaging and manufacturing industry, designed to serve multiple Middle Eastern countries.
+
+### Focus Areas
 
 - Wholesale Ordering
-- Payment Integration
-- Clean Architecture
-- BLoC
+- Secure Payment Integration
 - Multi-country Support
+- Clean Architecture
+- BLoC State Management
+- Scalable Product Management
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+## Let's Connect
 
-If you're looking for a Flutter Developer passionate about building production-ready mobile applications, I'd be happy to connect.
+I'm always interested in discussing Flutter, mobile architecture, and exciting software engineering opportunities.
 
 📧 **moibrahemm30@gmail.com**
 
