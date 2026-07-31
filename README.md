@@ -39,7 +39,6 @@ Currently developing and maintaining production Flutter applications, contributi
 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1B2A4A?style=flat-square)
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square)
-![Cubit](https://img.shields.io/badge/Cubit-13B9FD?style=flat-square)
 ![MVVM](https://img.shields.io/badge/MVVM-5C6BC0?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-0F172A?style=flat-square)
 
