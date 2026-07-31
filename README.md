@@ -107,44 +107,64 @@ Delivering custom Flutter solutions for business clients from planning to deploy
 
 ## 🚚 Wassally Delivery Ecosystem
 
-A complete multi-application delivery platform connecting customers, vendors, and drivers through a real-time ecosystem.
+A production-grade delivery ecosystem consisting of three interconnected applications that enable customers to place orders, vendors to manage their stores, and drivers to deliver orders through a real-time workflow.
 
 ### Applications
 
-- **Wassally** – Customer application for ordering from restaurants and supermarkets.
-- **Wassally Vendor** – Merchant dashboard for managing stores, products, offers, and incoming orders.
-- **Wassally Driver** – Driver application for receiving deliveries, navigation, and live order tracking.
+- **Wassally** – Customer application for ordering from restaurants and supermarkets with live order tracking.
+- **Wassally Vendor** – Merchant application for managing stores, products, offers, coupons, and incoming orders.
+- **Wassally Driver** – Driver application for receiving nearby orders, navigation, and delivery tracking.
 
 ### My Contributions
 
 - Led the development of approximately **70%** of the Customer application.
 - Developed approximately **80%** of the Vendor application.
-- Built the **Driver application** from scratch.
-- Implemented real-time communication using **SignalR**.
-- Integrated **Google Maps** and live location tracking.
-- Integrated payment gateways and push notifications.
-- Worked with Clean Architecture and BLoC.
-- Participated in code reviews and feature planning.
+- Designed and developed the **Driver application** entirely from scratch.
+- Implemented **SignalR** for real-time order assignment and delivery updates.
+- Integrated **Google Maps** for location selection, live tracking, and route navigation.
+- Implemented **Firebase Cloud Messaging (FCM)** for instant push notifications.
+- Integrated scalable **REST APIs** for all business operations.
+- Built a clean, modular architecture using **Clean Architecture**, **BLoC**, and Dependency Injection.
+- Participated in feature planning, code reviews, and application maintenance.
 
-### Technologies
+### Key Features
 
-`Flutter` `BLoC` `SignalR` `Google Maps`
-`Firebase` `REST API` `Clean Architecture`
+✅ Multi-vendor marketplace
+
+✅ Real-time order lifecycle
+
+✅ Live driver tracking
+
+✅ Product & Store Management
+
+✅ Offers & Coupons
+
+✅ Nearby Order Discovery
+
+✅ Push Notifications
+
+✅ Authentication & Profile Management
+
+### Tech Stack
+
+`Flutter` `BLoC` `Clean Architecture` `SignalR`
+`Google Maps` `Firebase` `FCM`
+`REST API` `Dependency Injection`
 
 ### Google Play
 
 <p>
 
-<a href="https://play.google.com/store/apps/details?id=com.sourcecode.wassally_app">
+<a href="https://play.google.com/store/apps/details?id=com.sourcecode.wassally_app&hl=en">
 <img alt="Google Play" src="https://img.shields.io/badge/Wassally-Google_Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 
-<a href="https://play.google.com/store/apps/details?id=com.sourcecode.wassally_store">
-<img alt="Google Play" src="https://img.shields.io/badge/Vendor-Google_Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
+<a href="https://play.google.com/store/apps/details?id=com.sourcecode.wassally_store&hl=en">
+<img alt="Google Play" src="https://img.shields.io/badge/Wassally_Vendor-Google_Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 
-<a href="https://play.google.com/store/apps/details?id=com.sourcecode.wassally_driver">
-<img alt="Google Play" src="https://img.shields.io/badge/Driver-Google_Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
+<a href="https://play.google.com/store/apps/details?id=com.sourcecode.wassally_driver&hl=en">
+<img alt="Google Play" src="https://img.shields.io/badge/Wassally_Driver-Google_Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 
 </p>
