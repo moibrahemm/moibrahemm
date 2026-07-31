@@ -159,7 +159,6 @@ A production-grade marketplace platform enabling users to buy and sell products,
 
 ### My Contributions
 
-- Developed approximately **60%** of the application.
 - Built end-to-end marketplace workflows for products and services.
 - Implemented advertisement management, category browsing, advanced search, and favorites.
 - Developed one-to-one real-time messaging using **SignalR**.
